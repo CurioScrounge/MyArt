@@ -1,2 +1,2 @@
 # MyArt
-Art drawn, part of participation in Hack Club's Arcade. 
+Art drawn during Hack Club's Arcade, trying out different styles on Procreate.
